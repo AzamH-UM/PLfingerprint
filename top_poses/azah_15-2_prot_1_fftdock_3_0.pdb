@@ -1,0 +1,29 @@
+REMARK  MINIMIZE PROTEIN IN PROTEIN                                                   
+REMARK   DATE:     4/17/22      6:22:45      CREATED BY USER: azamh                   
+ATOM      1  O1  LIG     1      55.556  48.294  43.595  1.00  0.00      LIGA
+ATOM      2  C1  LIG     1      55.935  47.200  43.968  1.00  0.00      LIGA
+ATOM      3  C2  LIG     1      56.325  46.242  42.937  1.00  0.00      LIGA
+ATOM      4  C3  LIG     1      56.208  46.968  45.369  1.00  0.00      LIGA
+ATOM      5  C4  LIG     1      56.301  45.711  46.031  1.00  0.00      LIGA
+ATOM      6  O2  LIG     1      56.232  44.657  45.340  1.00  0.00      LIGA
+ATOM      7  C5  LIG     1      56.698  45.634  47.408  1.00  0.00      LIGA
+ATOM      8  C6  LIG     1      56.857  44.373  48.210  1.00  0.00      LIGA
+ATOM      9  O3  LIG     1      57.237  44.367  49.379  1.00  0.00      LIGA
+ATOM     10  C7  LIG     1      56.550  43.042  47.620  1.00  0.00      LIGA
+ATOM     11  C8  LIG     1      57.158  46.840  47.980  1.00  0.00      LIGA
+ATOM     12  C9  LIG     1      58.133  47.063  49.088  1.00  0.00      LIGA
+ATOM     13  C10 LIG     1      56.927  48.020  47.347  1.00  0.00      LIGA
+ATOM     14  C11 LIG     1      56.420  48.135  46.100  1.00  0.00      LIGA
+ATOM     15  O4  LIG     1      56.304  49.346  45.741  1.00  0.00      LIGA
+ATOM     16  H1  LIG     1      57.387  46.000  43.082  1.00  0.00      LIGA
+ATOM     17  H2  LIG     1      56.180  46.684  41.931  1.00  0.00      LIGA
+ATOM     18  H3  LIG     1      55.691  45.340  43.052  1.00  0.00      LIGA
+ATOM     19  H4  LIG     1      55.569  43.113  47.119  1.00  0.00      LIGA
+ATOM     20  H5  LIG     1      56.501  42.285  48.428  1.00  0.00      LIGA
+ATOM     21  H6  LIG     1      57.325  42.763  46.877  1.00  0.00      LIGA
+ATOM     22  H7  LIG     1      59.144  46.882  48.692  1.00  0.00      LIGA
+ATOM     23  H8  LIG     1      57.903  46.395  49.925  1.00  0.00      LIGA
+ATOM     24  H9  LIG     1      58.154  48.117  49.422  1.00  0.00      LIGA
+ATOM     25  H10 LIG     1      56.890  48.847  48.010  1.00  0.00      LIGA
+TER    6607      LIG      1
+END

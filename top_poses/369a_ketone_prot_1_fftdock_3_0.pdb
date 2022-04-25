@@ -1,0 +1,27 @@
+REMARK  MINIMIZE PROTEIN IN PROTEIN                                                   
+REMARK   DATE:     4/17/22      6:24:26      CREATED BY USER: azamh                   
+ATOM      1  C1  LIG     1      56.597  46.380  43.584  1.00  0.00      LIGA
+ATOM      2  C2  LIG     1      56.738  45.088  44.115  1.00  0.00      LIGA
+ATOM      3  C3  LIG     1      56.501  47.477  44.451  1.00  0.00      LIGA
+ATOM      4  C4  LIG     1      56.763  44.878  45.516  1.00  0.00      LIGA
+ATOM      5  C5  LIG     1      56.500  46.603  42.103  1.00  0.00      LIGA
+ATOM      6  H1  LIG     1      55.822  47.452  41.914  1.00  0.00      LIGA
+ATOM      7  H2  LIG     1      57.518  46.788  41.703  1.00  0.00      LIGA
+ATOM      8  H3  LIG     1      56.052  45.724  41.605  1.00  0.00      LIGA
+ATOM      9  O1  LIG     1      56.874  44.038  43.184  1.00  0.00      LIGA
+ATOM     10  H4  LIG     1      57.022  44.457  42.327  1.00  0.00      LIGA
+ATOM     11  O2  LIG     1      56.337  48.653  44.024  1.00  0.00      LIGA
+ATOM     12  C6  LIG     1      56.759  46.011  46.378  1.00  0.00      LIGA
+ATOM     13  C7  LIG     1      57.064  45.864  47.830  1.00  0.00      LIGA
+ATOM     14  O3  LIG     1      56.757  44.855  48.461  1.00  0.00      LIGA
+ATOM     15  C8  LIG     1      57.915  46.919  48.482  1.00  0.00      LIGA
+ATOM     16  H5  LIG     1      58.833  47.101  47.888  1.00  0.00      LIGA
+ATOM     17  H6  LIG     1      58.204  46.578  49.499  1.00  0.00      LIGA
+ATOM     18  H7  LIG     1      57.350  47.868  48.565  1.00  0.00      LIGA
+ATOM     19  C9  LIG     1      56.898  43.493  46.081  1.00  0.00      LIGA
+ATOM     20  O4  LIG     1      57.269  42.474  45.529  1.00  0.00      LIGA
+ATOM     21  H8  LIG     1      56.629  43.395  47.149  1.00  0.00      LIGA
+ATOM     22  C10 LIG     1      56.619  47.302  45.820  1.00  0.00      LIGA
+ATOM     23  H9  LIG     1      56.585  48.192  46.422  1.00  0.00      LIGA
+TER    6837      LIG      1
+END

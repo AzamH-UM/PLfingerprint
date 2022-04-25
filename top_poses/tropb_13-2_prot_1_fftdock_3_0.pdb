@@ -1,0 +1,28 @@
+REMARK  MINIMIZE PROTEIN IN PROTEIN                                                   
+REMARK   DATE:     4/17/22      5:52:45      CREATED BY USER: azamh                   
+ATOM      1  O1  LIG     1      56.351  41.686  42.579  1.00  0.00      LIGA
+ATOM      2  C1  LIG     1      56.455  42.825  42.989  1.00  0.00      LIGA
+ATOM      3  C2  LIG     1      56.480  43.264  44.411  1.00  0.00      LIGA
+ATOM      4  C3  LIG     1      56.482  42.312  45.438  1.00  0.00      LIGA
+ATOM      5  O2  LIG     1      56.362  40.961  45.124  1.00  0.00      LIGA
+ATOM      6  C4  LIG     1      56.615  42.679  46.778  1.00  0.00      LIGA
+ATOM      7  C5  LIG     1      56.426  41.638  47.878  1.00  0.00      LIGA
+ATOM      8  C6  LIG     1      56.842  44.037  47.077  1.00  0.00      LIGA
+ATOM      9  O3  LIG     1      57.033  44.367  48.280  1.00  0.00      LIGA
+ATOM     10  C7  LIG     1      56.765  45.022  46.058  1.00  0.00      LIGA
+ATOM     11  C8  LIG     1      56.906  46.492  46.382  1.00  0.00      LIGA
+ATOM     12  C9  LIG     1      56.543  44.628  44.722  1.00  0.00      LIGA
+ATOM     13  C10 LIG     1      56.321  45.649  43.629  1.00  0.00      LIGA
+ATOM     14  H1  LIG     1      56.589  43.629  42.240  1.00  0.00      LIGA
+ATOM     15  H2  LIG     1      56.352  40.920  44.151  1.00  0.00      LIGA
+ATOM     16  H3  LIG     1      56.856  40.654  47.593  1.00  0.00      LIGA
+ATOM     17  H4  LIG     1      55.338  41.515  48.065  1.00  0.00      LIGA
+ATOM     18  H5  LIG     1      56.913  41.990  48.811  1.00  0.00      LIGA
+ATOM     19  H6  LIG     1      57.255  46.616  47.427  1.00  0.00      LIGA
+ATOM     20  H7  LIG     1      55.911  46.972  46.282  1.00  0.00      LIGA
+ATOM     21  H8  LIG     1      57.651  46.966  45.710  1.00  0.00      LIGA
+ATOM     22  H9  LIG     1      55.688  46.484  43.989  1.00  0.00      LIGA
+ATOM     23  H10 LIG     1      55.780  45.199  42.771  1.00  0.00      LIGA
+ATOM     24  H11 LIG     1      57.298  46.039  43.285  1.00  0.00      LIGA
+TER    7061      LIG      1
+END

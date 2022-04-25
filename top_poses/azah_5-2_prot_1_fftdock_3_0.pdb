@@ -1,0 +1,23 @@
+REMARK  MINIMIZE PROTEIN IN PROTEIN                                                   
+REMARK   DATE:     4/17/22      6:26:48      CREATED BY USER: azamh                   
+ATOM      1  BR  LIG     1      55.550  47.537  47.480  1.00  0.00      LIGA
+ATOM      2  C1  LIG     1      56.098  46.987  45.482  1.00  0.00      LIGA
+ATOM      3  C2  LIG     1      55.972  47.849  44.259  1.00  0.00      LIGA
+ATOM      4  O1  LIG     1      55.487  49.006  44.496  1.00  0.00      LIGA
+ATOM      5  C3  LIG     1      56.277  47.464  42.845  1.00  0.00      LIGA
+ATOM      6  C4  LIG     1      56.394  48.113  41.213  1.00  0.00      LIGA
+ATOM      7  C5  LIG     1      56.544  46.131  42.861  1.00  0.00      LIGA
+ATOM      8  O2  LIG     1      56.299  45.877  41.438  1.00  0.00      LIGA
+ATOM      9  C6  LIG     1      56.093  45.146  43.973  1.00  0.00      LIGA
+ATOM     10  C7  LIG     1      56.001  43.594  43.922  1.00  0.00      LIGA
+ATOM     11  O3  LIG     1      56.381  42.640  44.715  1.00  0.00      LIGA
+ATOM     12  C8  LIG     1      56.050  45.578  45.305  1.00  0.00      LIGA
+ATOM     13  H1  LIG     1      56.109  49.129  40.892  1.00  0.00      LIGA
+ATOM     14  H2  LIG     1      55.533  47.681  40.574  1.00  0.00      LIGA
+ATOM     15  H3  LIG     1      57.444  47.826  40.846  1.00  0.00      LIGA
+ATOM     16  H4  LIG     1      55.301  46.074  41.302  1.00  0.00      LIGA
+ATOM     17  H5  LIG     1      55.522  43.291  42.904  1.00  0.00      LIGA
+ATOM     18  H6  LIG     1      56.112  44.796  46.117  1.00  0.00      LIGA
+ATOM     19  LP1 LIG     1      55.066  48.023  49.241  1.00  0.00      LIGA
+TER    6601      LIG      1
+END
